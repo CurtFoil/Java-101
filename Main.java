@@ -55,7 +55,7 @@ public class Main {
         System.out.println(PracticeProblems.countOccurrences(x, 22));
         System.out.println(intArrToString(PracticeProblems.reverseArray(x)));
         System.out.println(PracticeProblems.sum2d((y)));
-        System.out.println(PracticeProblems.fib(165));
+        System.out.println(PracticeProblems.fib(6));
 
     }
 }
