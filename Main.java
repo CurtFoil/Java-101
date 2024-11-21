@@ -51,6 +51,12 @@ public class Main {
         // int[] arr = {1, 4, 6, 9};
 	    // System.out.println(intArrToString(arr));
 
+        int[] x = {7, 15, 22, 7, 34, 15, 42, 7, 18, 22};
+        double[][] y = {{2, 8, 3}, {3, 6, 4}};
+        System.out.println(PracticeProblems.countOccurrences(x, 22));
+        System.out.println(intArrToString(PracticeProblems.reverseArray(x)));
+        System.out.println(PracticeProblems.sum2d((y)));
+        System.out.println(PracticeProblems.fib(165));
 
     }
 }
