@@ -17,11 +17,6 @@ public class Main {
     //     str += ")";
     //     System.out.println(str);
     // }
-    // public static void main(String[] args){
-    //     int[] myArray = {15, 26, 12, 17, 55, 22, 108};
-    //     printIntArray(myArray);
-    //     System.out.println(myArray);
-    // }
     static String intArrToString(int[] arr) {
         String str = "(";
         for (int i = 0; i < arr.length; i++) {
@@ -42,6 +37,10 @@ public class Main {
         // System.out.println(arr[0] || arr[3]);
         // System.out.println(arr.length);
 
+        // int[] myArray = {15, 26, 12, 17, 55, 22, 108};
+        // printIntArray(myArray);
+        // System.out.println(myArray);
+        
         // int x = 3;
         // board[0][0] = 5;
         // int firstVal = board[0][0];
